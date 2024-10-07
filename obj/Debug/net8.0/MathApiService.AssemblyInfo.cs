@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f807353ae26fad1440e4c0292faa2dce0b86976b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
